@@ -11,6 +11,8 @@ package com.demo;
  *
  */
 public class Student {
+	
+	private String xhasd;
 	private String name;
 	private String address;
 	private int rollNo;
